@@ -5,6 +5,6 @@ instanceCount: 1
 environmentVariables:
   env2: "envvalue2"
   env1: "envvalue1"
-cpu: null
+cpu: 1
 memoryInGb: 1
 jvmOptions: "-Xms256m"
