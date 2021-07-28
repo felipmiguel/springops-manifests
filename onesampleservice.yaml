@@ -7,4 +7,4 @@ environmentVariables:
   env1: "envvalue1"
 cpu: null
 memoryInGb: 1
-jvmOptions: "-Xms256m -Xmx2048m"
+jvmOptions: "-Xms256m -Xmx1024m"
