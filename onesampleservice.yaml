@@ -1,7 +1,7 @@
 appName: "sampleapp"
 version: "1.0"
 artifactsSource: "https://springopsartifacts.blob.core.windows.net/releases/simple-microservice-0.0.1-SNAPSHOT.jar"
-instanceCount: 2
+instanceCount: 1
 environmentVariables:
   env2: "envvalue2"
 cpu: 1
