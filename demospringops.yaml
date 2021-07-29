@@ -1,0 +1,9 @@
+appName: "springopsdemo"
+version: "1.0"
+artifactsSource: "https://springopsartifacts.blob.core.windows.net/releases/simple-microservice-0.0.1-SNAPSHOT.jar"
+instanceCount: 1
+environmentVariables:
+  env2: "envvalue2"
+cpu: 1
+memoryInGb: 1
+jvmOptions: "-Xms512m"
