@@ -4,7 +4,7 @@ artifactsSource: "https://springopsartifacts.blob.core.windows.net/releases/simp
 blueGreen: true
 instanceCount: 1
 environmentVariables:
-  env1: "envvalue2"
+  env1: "envvalue3"
 cpu: 1
 memoryInGb: 1
 jvmOptions: "-Xms512m"
