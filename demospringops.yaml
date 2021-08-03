@@ -12,7 +12,7 @@ isPublic: true
 identity: false
 runtime: "Java_11"
 httpsOnly: false
-endToEndTls: false
+endToEndTls: true
 persistentDisk:
   sizeInGb: 5
   mountPath: "/persistent"
