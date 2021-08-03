@@ -8,5 +8,11 @@ environmentVariables:
 cpu: 1
 memoryInGb: 1
 jvmOptions: "-Xms512m"
-runtime: "Java_11"
 isPublic: true
+identity: true
+runtime: "Java_11"
+httpsOnly: false
+endToEndTls: false
+persistentDisk:
+  sizeInGb: 5
+  mountPath: "/per"
