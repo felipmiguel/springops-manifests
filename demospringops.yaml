@@ -8,5 +8,5 @@ environmentVariables:
 cpu: 1
 memoryInGb: 1
 jvmOptions: "-Xms512m"
-runtime: "Java_8"
+runtime: "Java_11"
 isPublic: true
