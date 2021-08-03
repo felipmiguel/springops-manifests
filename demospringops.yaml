@@ -9,10 +9,10 @@ cpu: 1
 memoryInGb: 1
 jvmOptions: "-Xms512m"
 isPublic: true
-identity: true
-runtime: "Java_8"
+identity: false
+runtime: "Java_11"
 httpsOnly: false
 endToEndTls: false
 persistentDisk:
   sizeInGb: 5
-  mountPath: "/per"
+  mountPath: "/persistent"
