@@ -1,5 +1,5 @@
 appName: "thedemo"
-version: "3"
+version: "4"
 artifactsSource: "https://github.com/felipmiguel/springopsdemo/releases/download/v1/theartifact.jar"
 blueGreen: false
 instanceCount: 1
