@@ -1,9 +1,0 @@
-appName: "sampleapp"
-version: "1.0"
-artifactsSource: "https://github.com/felipmiguel/springopssamples/releases/download/Release0/spring-cloud-microservice-0.0.1-SNAPSHOT.jar"
-instanceCount: 1
-environmentVariables:
-  env2: "envvalue2"
-cpu: 1
-memoryInGb: 1
-jvmOptions: "-Xms512m"
