@@ -10,7 +10,7 @@ memoryInGb: 1
 jvmOptions: "-Xms512m"
 isPublic: true
 identity: false
-runtime: "Java_8"
+runtime: "Java_11"
 httpsOnly: false
 endToEndTls: true
 # persistentDisk:
