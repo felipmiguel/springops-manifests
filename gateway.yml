@@ -1,6 +1,6 @@
 appName: "gateway"
-version: "0"
-artifactsSource: "https://github.com/felipmiguel/azure-spring-cloud-training-1/releases/download/V0/gatewayV0.jar"
+version: "1"
+artifactsSource: "https://github.com/felipmiguel/azure-spring-cloud-training-1/releases/download/V1/gateway.jar"
 blueGreen: true
 instanceCount: 1
 environmentVariables:
