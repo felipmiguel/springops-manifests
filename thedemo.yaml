@@ -9,7 +9,7 @@ cpu: 1
 memoryInGb: 1
 jvmOptions: "-Xms512m"
 isPublic: true
-identity: false
+identity: true
 runtime: "Java_11"
 httpsOnly: false
 endToEndTls: true
