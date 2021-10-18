@@ -8,7 +8,7 @@ environmentVariables:
 cpu: 1
 memoryInGb: 1
 jvmOptions: "-Xms512m"
-isPublic: true
+isPublic: false
 identity: true
 runtime: "Java_11"
 httpsOnly: false
