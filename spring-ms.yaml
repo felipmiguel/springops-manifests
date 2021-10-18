@@ -1,0 +1,18 @@
+appName: "spring-cloud-microservice"
+version: "1"
+artifactsSource: "https://github.com/felipmiguel/azure-spring-cloud-training-1/releases/download/V1/spring-cloud-microservice.jar"
+blueGreen: true
+instanceCount: 1
+environmentVariables:
+  env1: "envvalue1"
+cpu: 1
+memoryInGb: 1
+jvmOptions: "-Xms512m"
+isPublic: false
+identity: true
+runtime: "Java_8"
+httpsOnly: false
+endToEndTls: true
+# persistentDisk:
+#   sizeInGb: 5
+#   mountPath: "/persistent"
