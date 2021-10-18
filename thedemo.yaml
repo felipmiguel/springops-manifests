@@ -1,6 +1,6 @@
 appName: "thedemo"
-version: "4"
-artifactsSource: "https://github.com/felipmiguel/springopsdemo/releases/download/V4/theartifact.jar"
+version: "5"
+artifactsSource: "https://github.com/felipmiguel/springops-manifests/releases/download/Release0/spring-cloud-microservice-0.0.1-SNAPSHOT.jar"
 blueGreen: true
 instanceCount: 1
 environmentVariables:
