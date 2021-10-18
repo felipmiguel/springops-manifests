@@ -5,7 +5,7 @@ blueGreen: false
 instanceCount: 1
 environmentVariables:
   env1: "envvalue1"
-cpu: 2
+cpu: 1
 memoryInGb: 1
 jvmOptions: "-Xms512m"
 isPublic: true
